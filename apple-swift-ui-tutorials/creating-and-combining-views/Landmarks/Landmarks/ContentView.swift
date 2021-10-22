@@ -3,7 +3,8 @@ import CoreData
 
 struct ContentView: View {
     var body: some View {
-        Text("Howdy, Rogerio!")
+        Text("Turtle Rock")
+            .font(.title)
             .padding()
     }
 }
