@@ -1,10 +1,3 @@
-//
-//  Persistence.swift
-//  Landmarks
-//
-//  Created by Rogerio Cruz on 10/21/21.
-//
-
 import CoreData
 
 struct PersistenceController {
